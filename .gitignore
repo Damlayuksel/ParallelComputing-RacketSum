@@ -1,0 +1,18 @@
+# Racket compiled files
+compiled/
+*.zo
+*.dep
+
+# Plot output (generated at runtime)
+timing_plot.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
